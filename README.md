@@ -1,12 +1,14 @@
 ### Hi there 👋
 
 I am a software architect and developer with a proven ability to develop efficient, scalable, and fault-tolerant server solutions for complex problems.
-I have strong analytic abilities and extensive experience with big data real-time processing, server solutions, Amazon API, Salesforce, Nutsuite, and web services.
+I have strong analytic abilities and extensive experience with big data real-time processing, server maintenance, Amazon API, Salesforce, Nutsuite, etc.
 
-- **Amazon**: MWS/SP-API, FBA, Build APP, Dropshipping
+- **MEAN**: React/NextJs, NodeJs/Express
+- **LAMP**: PHP/Laravel/CI, HTML/Bootstrap
+
+- **Amazon**: MWS/SP-API, FBA, Repriceing
 - **SalesForce**: Apex, Lightning, Lightning Web Components, Rest API
-- **WebPortal**:  In various business solution by Laravel Framework
-- **Netsuite**:   Scripting, RestAPI, Deep knowledge of NetSuite reporting tools and dashboards
+- **Netsuite**:   SuiteScript 1.2, 2.0 , SuiteLet, RestLet, UserEvent Script
 
 <details>
   <summary>:zap: GitHub Stats</summary>
